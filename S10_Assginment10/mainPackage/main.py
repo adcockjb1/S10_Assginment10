@@ -20,3 +20,8 @@ if __name__ == "__main__":
     # Print data
     prt = PrintResult()
     prt.print_result(total_case, total_death, case_today, death_today, state)
+
+    # Convert to CSV
+    csv = ConvertToCSV()
+    filename = 'data.csv'
+    csv.save_as_csv(filename, parsed_json)
