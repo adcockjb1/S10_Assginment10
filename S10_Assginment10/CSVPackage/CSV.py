@@ -1,5 +1,19 @@
 # CSV.py
-# https://community.lambdatest.com/t/how-to-write-a-python-dictionary-to-csv-with-keys-as-headers/34274
+
+# File Name : CSV.py
+# Student Name: Nogaye Gueye
+# email: gueyene@mail.uc.edu
+# Assignment Number: Assignment 10
+# Due Date: 4/10/2025
+# Course #/Section: IS4010-001
+# Semester/Year: Spring 2025
+# Brief Description of the assignment: The assignment is to execute an API call using a URL.
+
+# Brief Description of what this module does:
+# Citations: https://community.lambdatest.com/t/how-to-write-a-python-dictionary-to-csv-with-keys-as-headers/34274
+
+
+# Anything else that's relevant:
 
 import csv
 

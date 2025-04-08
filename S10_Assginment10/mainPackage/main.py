@@ -1,5 +1,24 @@
 # main.py
-# https://disease.sh/docs/#/
+
+# File Name : # main.py
+# Student Name: Asfia Siddiqui
+#               Nogaye Gueye
+#               Joseph Adcock
+#               Kengo Ishizuka
+# email: siddiqaf@mail.uc.edu
+#        gueyene@mail.uc.edu
+#        adcockjb@mail.uc.edu
+#        ishizuko@mail.uc.edu
+# Assignment Number: Assignment 10
+# Due Date: 4/10/2025
+# Course #/Section: IS4010-001
+# Semester/Year: Spring 2025
+# Brief Description of the assignment: The assignment is to execute an API call using a URL.
+
+# Brief Description of what this module does:
+# Citations: 
+
+# Anything else that's relevant: https://disease.sh/docs/#/
 
 from getAPIPackage.getAPI import*
 from printPackage.print import*
