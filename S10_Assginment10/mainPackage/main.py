@@ -26,6 +26,7 @@ from CSVPackage.CSV import *
 
 if __name__ == "__main__":
 
+    # Receive API data and read it as dictionary format
     api = Api()
     parsed_json = api.get_api_data("https://disease.sh/v3/covid-19/states/Ohio")
 
