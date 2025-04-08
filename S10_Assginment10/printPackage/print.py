@@ -9,7 +9,7 @@
 # Semester/Year: Spring 2025
 # Brief Description of the assignment: The assignment is to execute an API call using a URL.
 
-# Brief Description of what this module does:
+# Brief Description of what this module does: This module formats and prints selected COVID-19 data.
 # Citations: 
 
 # Anything else that's relevant:
